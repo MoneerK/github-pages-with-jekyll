@@ -1,3 +1,8 @@
+---
+title: "First-Post"
+date: 2021-04-06
+---
+
 ⌨️ Activity: Add some content to your blog
 
 Shortcut Note: Click this link to automatically complete steps 1-4.
